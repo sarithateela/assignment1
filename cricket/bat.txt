@@ -1,1 +1,11 @@
-this is details about cricket
+this is details about cricket.
+1.cricket bat
+2.cricket helmet
+3.cricket gloves
+4.stumps
+5.ball
+6.shoes
+7.chest guards
+8.thigh pads
+9.plain pitch
+10.protective guards
